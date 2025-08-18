@@ -1,8 +1,13 @@
 <h1>Hi, I'm Julio! 
 
+👨‍💻 About Me  
+- 🌱 Currently learning cybersecurity labs, Linux, and cloud technologies.  
+- 🔭 Working on my NPower SkillBridge program, applying cybersecurity skills in simulated SOC environments while building labs.  
+- ⚡ Fun fact: Fluent in English & Spanish, with global multicultural experience.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Currently building and documenting cybersecurity labs (to be uploaded soon).
+Currently building and documenting labs on Active Directory, Splunk, and penetration testing (coming soon).
  
 <h2> 🎓 Certifications</h2>
 
@@ -50,14 +55,10 @@ Currently building and documenting cybersecurity labs (to be uploaded soon).
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-🌱 I’m currently learning cybersecurity labs, Linux, and cloud technologies.
-
-🔭 I’m currently in the NPower SkillBridge program, applying cybersecurity skills in simulated SOC environments while building lab projects.
-
-⚡ Fun fact: I’m fluent in English & Spanish and worked in multicultural environments worldwide.
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/juliochicas
+
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Gunny&show_icons=true&theme=dark)
