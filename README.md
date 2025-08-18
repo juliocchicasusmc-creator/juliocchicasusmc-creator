@@ -11,23 +11,43 @@ Currently building and documenting cybersecurity labs (to be uploaded soon).
 🟡 Linux+ (In Progress)
 🟡 Splunk Core Certified User (In Progress)
 
-<h2> - Skills & Tools</h2>
+<h2> 🛠️ Skills & Tools</h2>
 
 🛠️ Skills & Tools
 
+**Operating Systems**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
-Security Tools: Splunk, Wireshark, Nmap, Metasploitable, Nessus
+**Security Tools**  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=nmap&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-00B7C3?style=for-the-badge&logo=tenable&logoColor=white)  
 
-Networking: TCP/IP, DNS, DHCP, Firewalls, VPNs
+**Networking**  
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-FF6F00?style=for-the-badge)  
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge)  
+![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge)  
 
-Identity & Access Management: Active Directory, Group Policy, Role-Based Access Control (RBAC)
+**Identity & Access Management**  
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Group Policy](https://img.shields.io/badge/Group%20Policy-008272?style=for-the-badge&logo=microsoft&logoColor=white)  
 
-Programming & Scripting: Python (beginner), PowerShell, Bash
+**Programming & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
-Compliance & Standards: DoD Cybersecurity, HIPAA, NIST, Information Assurance
+**Compliance & Standards**  
+![DoD](https://img.shields.io/badge/DoD%20Cybersecurity-003366?style=for-the-badge)  
+![HIPAA](https://img.shields.io/badge/HIPAA-6D83F2?style=for-the-badge)  
+![NIST](https://img.shields.io/badge/NIST-000000?style=for-the-badge)  
 
-Other Tools: VMware, VirtualBox, Git/GitHub
+**Other Tools**  
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 🌱 I’m currently learning cybersecurity labs, Linux, and cloud technologies.
 
