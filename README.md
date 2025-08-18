@@ -1,7 +1,7 @@
-<h1>Hi, I'm Julio! 
+<h1>Hi, I'm Julio!<h1></h1>
 
 
-👨‍💻 About Me  
+<h2>👨‍💻 About Me  <h2></h2>
 
 - 🌱 Currently learning cybersecurity labs, Linux, and cloud technologies.  
 - 🔭 Working on my NPower SkillBridge program, applying cybersecurity skills in simulated SOC environments while building labs.  
@@ -63,4 +63,7 @@ Currently building and documenting labs on Active Directory, Splunk, and penetra
 
 [linkedin]: https://linkedin.com/in/juliochicas
 
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Gunny&show_icons=true&theme=dark)
+### 📊 GitHub Stats  
+
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Gunny&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Gunny&layout=compact&theme=dark)  
