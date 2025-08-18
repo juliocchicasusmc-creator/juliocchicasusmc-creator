@@ -4,12 +4,12 @@
 
 Currently building and documenting cybersecurity labs (to be uploaded soon).
  
-<h2> - Certifications</h2>
+<h2> 🎓 Certifications</h2>
 
-- Google Cybersecurity Professional (In Progress)
-🟡 Security+ (In Progress)
-🟡 Linux+ (In Progress)
-🟡 Splunk Core Certified User (In Progress)
+![Google Cybersecurity Professional](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)  
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-333333?style=for-the-badge&logo=linux&logoColor=white)  
+![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 
 <h2> 🛠️ Skills & Tools</h2>
 
