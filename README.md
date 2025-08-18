@@ -14,6 +14,8 @@
 
 🌱 I’m currently learning system administration, cloud technologies, and cybersecurity practices, building hands-on labs with Kali Linux, Metasploitable, and GitHub projects to showcase my progress.
 
+🔭 I’m currently working on earning Security+, Linux+, and Splunk certifications while applying my knowledge through real-world-inspired GitHub projects.
+
 ⚡ Fun fact: I’m fluent in both English and Spanish and have worked in multicultural environments worldwide.
 
 <h2> 🤳 Connect with me:</h2>
