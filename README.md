@@ -2,21 +2,20 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/juliocchicasusmc/LABURL)
+Currently building and documenting cybersecurity labs (to be uploaded soon).
  
 <h2> - Certifications</h2>
 
-- [Google Cybersecurity Professional] 
-  
-<h2>📺 Popular YouTube Videos</h2>
+- Google Cybersecurity Professional (In Progress)
+- CompTIA Security+ (In Progress)
+- Linux+ (In Progress)
+- Splunk Core Certified User (In Progress)
 
-- [Active Directory Home Lab](URL)
+🌱 I’m currently learning cybersecurity labs, Linux, and cloud technologies.
 
-🌱 I’m currently learning system administration, cloud technologies, and cybersecurity practices, building hands-on labs with Kali Linux, Metasploitable, and GitHub projects to showcase my progress.
+🔭 I’m currently working on earning Security+, Linux+, and Splunk while building real-world labs.
 
-🔭 I’m currently working on earning Security+, Linux+, and Splunk certifications while applying my knowledge through real-world-inspired GitHub projects.
-
-⚡ Fun fact: I’m fluent in both English and Spanish and have worked in multicultural environments worldwide.
+⚡ Fun fact: I’m fluent in English & Spanish and worked in multicultural environments worldwide.
 
 <h2> 🤳 Connect with me:</h2>
 
