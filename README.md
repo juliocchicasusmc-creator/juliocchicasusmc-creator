@@ -1,6 +1,8 @@
 <h1>Hi, I'm Julio! 
 
+
 👨‍💻 About Me  
+
 - 🌱 Currently learning cybersecurity labs, Linux, and cloud technologies.  
 - 🔭 Working on my NPower SkillBridge program, applying cybersecurity skills in simulated SOC environments while building labs.  
 - ⚡ Fun fact: Fluent in English & Spanish, with global multicultural experience.
