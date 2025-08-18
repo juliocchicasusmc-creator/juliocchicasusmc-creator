@@ -13,7 +13,7 @@ Currently building and documenting cybersecurity labs (to be uploaded soon).
 
 🌱 I’m currently learning cybersecurity labs, Linux, and cloud technologies.
 
-🔭 I’m currently working on earning Security+, Linux+, and Splunk while building real-world labs.
+🔭 I’m currently working on my NPower SkillBridge program, applying cybersecurity skills in simulated SOC environments and expanding my lab projects.
 
 ⚡ Fun fact: I’m fluent in English & Spanish and worked in multicultural environments worldwide.
 
